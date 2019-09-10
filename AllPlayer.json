@@ -250,6 +250,14 @@
     },
 	{
       "id": 32,
+      "no": 1707051036,
+      "name": "Fredy Agung Wiratama",
+      "birth_date": "01 Januari",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051036.png"
+    },
+	{
+      "id": 33,
       "no": 1707051038,
       "name": "Robby Nurman HW",
       "birth_date": "09 Mei",
@@ -257,7 +265,7 @@
       "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051038.png"
     },
 	{
-      "id": 33,
+      "id": 34,
       "no": 1707051039,
       "name": "Margareta Oktaviani",
       "birth_date": "01 Januari",
