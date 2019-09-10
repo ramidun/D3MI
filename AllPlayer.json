@@ -1,1 +1,277 @@
 
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 1707051001,
+      "name": "Rizky Sidiq Pratamaa",
+      "birth_date": "04 Desember",
+      "Position": "089622361345",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051001.png"
+    },
+    {
+      "id": 2,
+      "no": 1707051002,
+      "name": "Mely Rahmawati",
+      "birth_date": "12 Mei",
+      "Position": "085768944121",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051001.png"
+    },
+    {
+      "id": 3,
+      "no": 1707051003,
+      "name": "Angelica Nuraini",
+      "birth_date": "27 November",
+      "Position": "082280369245",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051001.png"
+    },
+    {
+      "id": 4,
+      "no": 1707051004,
+      "name": "Muhammad Fikri Rubiyanto",
+      "birth_date": "03 Februari",
+      "Position": "082269982577",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051001.png"
+    },
+    {
+      "id": 5,
+      "no": 1707051005,
+      "name": "Jelas Prakosojati",
+      "birth_date": "20 Januari",
+      "Position": "081277217318",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051001.png"
+    },
+    {
+      "id": 6,
+      "no": 1707051006,
+      "name": "Akbar Rinaldy",
+      "birth_date": "29 September",
+      "Position": "089630981337",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051006.png"
+    },
+    {
+      "id": 7,
+      "no": 1707051007,
+      "name": "Arjuna Satrio Wibowo",
+      "birth_date": "11 Mei",
+      "Position": "089628730788",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051007.png"
+    },
+    {
+      "id": 8,
+      "no": 1707051009,
+      "name": "Dwi Rizky Syaputra",
+      "birth_date": "06 Juli",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051009.png"
+    },
+    {
+      "id": 9,
+      "no": 1707051010,
+      "name": "Jordan Satrio Pratama",
+      "birth_date": "04 Agustus",
+      "Position": "082281443380",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051010.png"
+    },
+    {
+      "id": 10,
+      "no": 1707051011,
+      "name": "Maulina Rosnita",
+      "birth_date": "30 Juni",
+      "Position": "082282263467",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051011.png"
+    },
+    {
+      "id": 11,
+      "no": 1707051012,
+      "name": "Novita Sari",
+      "birth_date": "20 Juni",
+      "Position": "085664367898",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051012.png"
+    },
+    {
+      "id": 12,
+      "no": 1707051013,
+      "name": "Candra Maulana Aji",
+      "birth_date": "14 Mei",
+      "Position": "085783088066",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051013.png"
+    },
+    {
+      "id": 13,
+      "no": 1707051014,
+      "name": "Abdillah Ibnu Mubarok",
+      "birth_date": "08 Mei",
+      "Position": "085609665167",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051014.png"
+    },
+    {
+      "id": 14,
+      "no": 1707051015,
+      "name": "Enggal Alfrian",
+      "birth_date": "06 April",
+      "Position": "082299285953",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051015.png"
+    },
+	{
+      "id": 15,
+      "no": 1707051016,
+      "name": "Evan Beryl Purba",
+      "birth_date": "30 Juni",
+      "Position": "081654986598",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051016.png"
+    },
+	{
+      "id": 16,
+      "no": 1707051017,
+      "name": "Nurhidayati",
+      "birth_date": "16 Agustus",
+      "Position": "082149546589",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051017.png"
+    },
+	{
+      "id": 17,
+      "no": 1707051018,
+      "name": "Muhammad Bella Buay Nunyai",
+      "birth_date": "24 Mei",
+      "Position": "089677189744",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051018.png"
+    },
+	{
+      "id": 18,
+      "no": 1707051019,
+      "name": "Rintiya Sari",
+      "birth_date": "23 Januari",
+      "Position": "082236639896",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051019.png"
+    },
+	{
+      "id": 19,
+      "no": 1707051020,
+      "name": "Rifky Berlian",
+      "birth_date": "01 Januari",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051020.png"
+    },
+	{
+      "id": 20,
+      "no": 1707051021,
+      "name": "Ilyasya Damara",
+      "birth_date": "06 Februari",
+      "Position": "0895363632712",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051021.png"
+    },
+	{
+      "id": 21,
+      "no": 1707051022,
+      "name": "Delima BR Pardede",
+      "birth_date": "07 September",
+      "Position": "085268490714",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051022.png"
+    },
+	{
+      "id": 22,
+      "no": 1707051023,
+      "name": "Lady Yohana Nadeak",
+      "birth_date": "07 January",
+      "Position": "081539448871",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051023.png"
+    },
+	{
+      "id": 23,
+      "no": 1707051024,
+      "name": "Kasdani Priyatna",
+      "birth_date": "06 Juli",
+      "Position": "085838713992",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051024.png"
+    },
+	{
+      "id": 24,
+      "no": 1707051026,
+      "name": "Beti Yunita Sari",
+      "birth_date": "19 Februari",
+      "Position": "082375304414",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051026.png"
+    },
+	{
+      "id": 25,
+      "no": 1707051027,
+      "name": "Rio Ananda Putra",
+      "birth_date": "25 Januari",
+      "Position": "083170545948",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051027.png"
+    },
+	{
+      "id": 26,
+      "no": 1707051028,
+      "name": "Beri Andika",
+      "birth_date": "19 April",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051028.png"
+    },
+	{
+      "id": 27,
+      "no": 1707051029,
+      "name": "Adam Malik",
+      "birth_date": "12 Februari",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051029.png"
+    },
+	{
+      "id": 28,
+      "no": 1707051030,
+      "name": "Ramdhan Kurniawan Sanggam",
+      "birth_date": "28 Desember",
+      "Position": "081929834890",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051030.png"
+    },
+	{
+      "id": 29,
+      "no": 1707051031,
+      "name": "Andhika Faturrahhman",
+      "birth_date": "25 April",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051031.png"
+    },
+	{
+      "id": 30,
+      "no": 1707051032,
+      "name": "Vika Rahayu Aryati",
+      "birth_date": "25 Maret",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051032.png"
+    },
+	{
+      "id": 31,
+      "no": 1707051034,
+      "name": "Dimas Riyadi",
+      "birth_date": "09 Maret",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051034.png"
+    },
+	{
+      "id": 32,
+      "no": 1707051038,
+      "name": "Robby Nurman HW",
+      "birth_date": "09 Mei",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051038.png"
+    },
+	{
+      "id": 33,
+      "no": 1707051039,
+      "name": "Margareta Oktaviani",
+      "birth_date": "01 Januari",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051039.png"
+    },
+    {
+      "id": 35,
+      "no": 1707051040,
+      "name": "Aidil Fitra Arrafi",
+      "birth_date": "01 Januari",
+      "Position": "-",
+      "Poster": "https://raw.githubusercontent.com/ramidun/D3MI/master/1707051040.png"
+    }
+  ]
+}
